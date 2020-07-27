@@ -26,3 +26,4 @@
 
 ## 155. Movendo peças
 
+### 156. Tratando exceções e limpando a tela
