@@ -23,3 +23,6 @@
 ## 153. ChessException e ChessPosition
 
 ## 154. Pequena melhoria na impressão do tabuleiro
+
+## 155. Movendo peças
+
