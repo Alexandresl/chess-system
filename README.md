@@ -26,4 +26,7 @@
 
 ## 155. Movendo peças
 
-### 156. Tratando exceções e limpando a tela
+## 156. Tratando exceções e limpando a tela
+
+## 157. Movimentos possíveis de uma peça 
+
