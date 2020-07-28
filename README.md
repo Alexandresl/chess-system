@@ -42,4 +42,7 @@
 
 ### 163. Lógica do xeque - PARTE 1
 
-### 164. Lógica de xeque = PARTE 2
+### 164. Lógica de xeque - PARTE 2
+
+### 165. Lógica de xequemate
+
