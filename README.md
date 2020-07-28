@@ -41,3 +41,5 @@
 ### 162. Manipulando peças capturadas
 
 ### 163. Lógica do xeque - PARTE 1
+
+### 164. Lógica de xeque = PARTE 2
