@@ -47,3 +47,6 @@
 ### 165. Lógica de xequemate
 
 ### 166. Contagem de movimentos das peças
+
+### 167. Peão
+
