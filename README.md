@@ -39,3 +39,5 @@
 ### 161. Trocando de jogador a cada turno
 
 ### 162. Manipulando peças capturadas
+
+### 163. Lógica do xeque - PARTE 1
