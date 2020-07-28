@@ -37,3 +37,5 @@
 ### 160. Implementando os movimentos possíveis do rei
 
 ### 161. Trocando de jogador a cada turno
+
+### 162. Manipulando peças capturadas
