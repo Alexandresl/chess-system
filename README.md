@@ -61,3 +61,5 @@
 ### 172. Jogada especial Roque - Parte 2
 
 ### 173. Jogada especial en passant - Parte 1
+
+### 174. Jogada especial en passant - Parte 2
