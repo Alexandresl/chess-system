@@ -67,3 +67,5 @@
 ### 175. Jogada especial promoção
 
 ### 176. Atualização do compliance
+
+### 177. Dando um tratamento melhor para promoção
